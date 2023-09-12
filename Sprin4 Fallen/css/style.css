@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    text-align: center;
+}
+
+#canvas {
+    margin: 10px;
+    border: 2px solid rgb(218, 5, 5);
+}
